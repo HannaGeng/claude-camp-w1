@@ -1,5 +1,4 @@
 # # Temperature Converter
-
 choice = input("Convert (C)elsius or (F)ahrenheit? ")
 
 if choice.upper() == "C":
